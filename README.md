@@ -1,1 +1,1 @@
-College event website
+College event website main
