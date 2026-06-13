@@ -1,0 +1,25 @@
+
+HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Event</title>
+</head>
+<body>
+
+    <h1>College Event 2026</h1>
+
+    <p>Date: 20 July 2026</p>
+    <p>Venue: College Auditorium</p>
+
+    <h2>Events</h2>
+    <ul>
+        <li>Dance</li>
+        <li>Quiz</li>
+        <li>Project Expo</li>
+    </ul>
+
+    <p>Contact: college@gmail.com</p>
+
+</body>
+</html>
